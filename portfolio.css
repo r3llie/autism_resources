@@ -1,7 +1,7 @@
 h1 {
     font-size: 70px;
-    margin-top: 108px;
-    margin-bottom: 40px;
+    margin-top: 38px;
+    margin-bottom: 38px;
 }
 ul {
     list-style: none;
@@ -15,15 +15,22 @@ li {
 a {
     text-decoration: none;
 }
+img {
+    border-radius: 50px;
+    width: 90px;
+}
 
 .website-container {
   text-align: center;
 }
 .sensory-container {
     text-align: center;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    margin-top: 38px;
+    margin-bottom: 58px;
 }
 .source-footer {
     text-align: center;
+}
+.my-image {
+    margin-top: 50px;
 }
