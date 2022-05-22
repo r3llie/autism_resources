@@ -2,7 +2,7 @@ body {
   background: linear-gradient(#637d9e, #f7d8d7);
 }
 h3 {
-  font-size: 43px;
+  font-size: 53px;
   font-family: "Black Han Sans", sans-serif;
   color: #f7d8d7;
 }
@@ -51,6 +51,9 @@ img {
 }
 
 @media (max-width: 1200px) {
+  h3 {
+    font-size: 38px;
+  }
   h1 {
     font-size: 70px;
   }
