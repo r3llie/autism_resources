@@ -3,4 +3,12 @@ h1 {
 }
 ul {
     list-style: none;
+    font-size: 35px;
+}
+a {
+    text-decoration: none;
+}
+
+.website-container {
+  text-align: center;
 }
