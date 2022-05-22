@@ -1,45 +1,51 @@
 body {
   background: linear-gradient(#637d9e, #f7d8d7);
 }
-
-
-
+h3 {
+  font-size: 43px;
+  font-family: "Black Han Sans", sans-serif;
+  color: #f7d8d7;
+}
 h1 {
-    font-size: 70px;
-    margin-top: 38px;
-    margin-bottom: 38px;
+  font-family: "Black Han Sans", sans-serif;
+  font-size: 83px;
+  margin-top: 24px;
+  margin-bottom: 38px;
 }
 ul {
-    list-style: none;
-    font-size: 35px;
-    padding: 0;
+  list-style: none;
+  font-size: 35px;
+  padding: 0;
 }
 li {
-   line-height: 1.5;
-   margin-bottom: 23px;
+  line-height: 1.5;
+  margin-bottom: 23px;
 }
 a {
-    text-decoration: none;
+  font-family: "Glegoo", serif;
+  text-decoration: none;
 }
 a:hover {
-    color: red;
+  color: red;
 }
 img {
-    border-radius: 50px;
-    width: 90px;
+  border-radius: 80px;
+  width: 133px;
 }
 
 .website-container {
   text-align: center;
 }
 .sensory-container {
-    text-align: center;
-    margin-top: 38px;
-    margin-bottom: 58px;
+  text-align: center;
+  margin-top: 38px;
+  margin-bottom: 58px;
 }
 .source-footer {
-    text-align: center;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Kufam", sans-serif;
 }
 .my-image {
-    margin-top: 50px;
+  margin-top: 78px;
 }
