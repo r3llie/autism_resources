@@ -1,9 +1,15 @@
 h1 {
-    font-size: 80px;
+    font-size: 70px;
+    margin-top: 80px;
+    margin-bottom: 40px;
 }
 ul {
     list-style: none;
     font-size: 35px;
+}
+li {
+   line-height: 1.5;
+   margin-bottom: 23px;
 }
 a {
     text-decoration: none;
