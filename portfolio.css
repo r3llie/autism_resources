@@ -49,3 +49,12 @@ img {
 .my-image {
   margin-top: 78px;
 }
+
+@media (max-width: 1200px) {
+  h1 {
+    font-size: 70px;
+  }
+  img {
+    width: 80px;
+  }
+}
