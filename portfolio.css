@@ -1,3 +1,9 @@
+body {
+  background: linear-gradient(#637d9e, #f7d8d7);
+}
+
+
+
 h1 {
     font-size: 70px;
     margin-top: 38px;
@@ -14,6 +20,9 @@ li {
 }
 a {
     text-decoration: none;
+}
+a:hover {
+    color: red;
 }
 img {
     border-radius: 50px;
