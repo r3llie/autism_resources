@@ -33,6 +33,9 @@ img {
   border-radius: 80px;
   width: 133px;
 }
+img:hover {
+  opacity: .5;
+}
 
 .website-container {
   text-align: center;
