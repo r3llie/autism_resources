@@ -10,7 +10,7 @@ h1 {
   font-family: "Black Han Sans", sans-serif;
   font-size: 83px;
   margin-top: 24px;
-  margin-bottom: 38px;
+  margin-bottom: 24px;
 }
 ul {
   list-style: none;
@@ -63,5 +63,8 @@ img:hover {
   }
   img {
     width: 80px;
+  }
+  li {
+    margin-bottom: 13px;
   }
 }
